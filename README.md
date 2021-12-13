@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Emily S
 - 👀 I’m interested in learning more about coding, and building on my current knowledge. 
 - 🌱 I’m currently learning discord.py and discord.js
-- 💞️ I am not looking to collaborate at this time. 
 
 
 <!---
